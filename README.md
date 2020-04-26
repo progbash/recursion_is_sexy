@@ -1,0 +1,1 @@
+- You can go the codes of binary search algorithm written with recursion logic clicking by [this link](https://github.com/progbash/search_algorithms/blob/master/binary_search_recursive.py) 
